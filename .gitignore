@@ -34,6 +34,3 @@ htmlcov/
 .vscode/
 
 # Runtime outputs
-memory.md
-test_results.txt
-demo_test_results.txt
